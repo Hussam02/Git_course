@@ -1,2 +1,5 @@
-# Git_course
+# Git_Course
 for leaen Git 
+
+
+## project Notes
